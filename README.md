@@ -1,5 +1,5 @@
 
-<p align="center"><img align="center" src="./animation.gif" width="165" height="75" /></p>
+<p align="left"><img src="./animation.gif" width="165" height="75" /></p>
 
 engineering manager @ [squarespace](https://www.squarespace.com/)
 
