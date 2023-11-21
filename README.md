@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<p align="center"><img align="center" src="./animation.gif" width="165" height="75" /></p>
+
+engineering manager @ [squarespace](https://www.squarespace.com/)
 
 <!--
 **reicruz/reicruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
