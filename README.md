@@ -1,4 +1,4 @@
-engineering manager @ [squarespace](https://www.squarespace.com/)
+engineering manager @ [datadog](https://www.datadog.com/)
 
 
 
